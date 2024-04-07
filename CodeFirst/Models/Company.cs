@@ -1,4 +1,7 @@
-﻿namespace CodeFirst.Models
+﻿//====
+//CRUD
+//====
+namespace CodeFirst.Models
 {
     public class Company
     {
