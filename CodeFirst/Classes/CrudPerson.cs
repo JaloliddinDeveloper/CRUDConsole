@@ -1,4 +1,7 @@
-﻿using CodeFirst.Models;
+﻿//====
+//CRUD
+//====
+using CodeFirst.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace CodeFirst.Classes
